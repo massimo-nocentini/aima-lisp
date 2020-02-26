@@ -5,3 +5,5 @@ Common Lisp implementation of algorithms from Russell And Norvig's book *Artific
 This repository was the original code base, back in 1995. 
 Since then, the Java and Python versions have become more popular, and this Lisp version is no
 longer up-to-date. But it is here for whatever use you want to make of it.
+
+Have a look at https://people.eecs.berkeley.edu/~russell/code/doc/overview.html for an overview and project structure.
